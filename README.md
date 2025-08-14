@@ -26,13 +26,11 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0B3C49?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-2C2C2C?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=knime&logoColor=yellow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 ---
 
 ## 📈 GitHub Stats
